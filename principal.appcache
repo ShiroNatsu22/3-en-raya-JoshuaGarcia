@@ -1,0 +1,10 @@
+CACHE MANIFEST
+#2016-01-08
+/theme.css
+/logo.gif
+/main.js
+
+NETWORK
+*
+FALLBACK
+/html/ /offline.html
